@@ -1,0 +1,110 @@
+[
+  {
+    "metric_type": "embedding",
+    "metric": "task2vec",
+    "ordering_heuristic": "centrality",
+    "order": [
+      1,
+      2,
+      3,
+      0,
+      4
+    ],
+    "scores": [
+      0.005003199577331542,
+      0.003003001213073731,
+      0.004170513153076172,
+      0.004967451095581055,
+      0.005205926895141601
+    ]
+  },
+  {
+    "metric_type": "embedding",
+    "metric": "task2vec",
+    "ordering_heuristic": "cluster",
+    "order": [
+      0,
+      4,
+      1,
+      3,
+      2
+    ],
+    "scores": [
+      1,
+      0,
+      2,
+      0,
+      1
+    ]
+  },
+  {
+    "metric_type": "embedding",
+    "metric": "task2vec",
+    "ordering_heuristic": "eccentricity",
+    "order": [
+      1,
+      2,
+      3,
+      0,
+      4
+    ],
+    "scores": [
+      0.005003199577331542,
+      0.003003001213073731,
+      0.004170513153076172,
+      0.004967451095581055,
+      0.005205926895141601
+    ]
+  },
+  {
+    "metric_type": "embedding",
+    "metric": "task2vec",
+    "ordering_heuristic": "hamiltonian",
+    "order": [
+      2,
+      1,
+      3,
+      0,
+      4
+    ],
+    "scores": 0.05181467533111572
+  },
+  {
+    "metric_type": "embedding",
+    "metric": "task2vec",
+    "ordering_heuristic": "spectral",
+    "order": [
+      2,
+      0,
+      1,
+      3,
+      4
+    ],
+    "scores": [
+      0.060884190572449204,
+      0.0874051078458807,
+      -0.852196615774198,
+      0.26630427219377883,
+      0.4376030451620895
+    ]
+  },
+  {
+    "metric_type": "embedding",
+    "metric": "task2vec",
+    "ordering_heuristic": "typicality",
+    "order": [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "scores": [
+      0.01901257038116455,
+      0.013680696487426756,
+      0.01305556297302246,
+      0.012041926383972168,
+      0.009652554988861086
+    ]
+  }
+]
